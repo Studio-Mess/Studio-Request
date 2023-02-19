@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Video Gallery - Easy Tutorials</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <diy class="container">
+         <h1>HOW TO MAKE A VIDEO GALLERY</h1>
+     </div>
+</body>
+</html>
